@@ -15,7 +15,7 @@ for x in range(x,4):
             return 1 
         
         elif n<0:
-            print("There is no factorial for this number")
+            print("There is no factorial for this number!")
     
         else: 
             return n * factorial(n-1)
